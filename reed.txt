@@ -1,0 +1,3 @@
+tweets_carga.ipynb - forma que fueron cargados los tweets
+test_modelos.ipynb - muestra de los modelos probados
+muestas.ipynb - podemos probar el modelo de analisis de sentimientos
